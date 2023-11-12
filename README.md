@@ -1,6 +1,6 @@
 # Tubes-NLP
 
-Terdapat 3 pipelane yang dibangun yaitu
+Terdapat 3 pipeline yang dibangun yaitu
 
 - Topic Classification oleh Mahesa Lizardy (13520116)
 - Clickbait Detection oleh Bryan Amirul Husna (13520146)
